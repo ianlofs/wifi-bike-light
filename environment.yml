@@ -1,0 +1,6 @@
+name: wifi_bike_light
+dependencies:
+    - python ==2.7.10
+    - pyserial
+    - pip:
+        - platformio
